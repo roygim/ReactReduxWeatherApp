@@ -1,0 +1,7 @@
+.SearchInput { padding: 24px 0;}
+
+.SearchInput .inner-addon { display: inline-block; width: 500px; position: relative;}
+.SearchInput .inner-addon div { display: block !important; z-index: 10;}
+.SearchInput .inner-addon .glyphicon { position: absolute; padding: 10px; cursor: pointer;}
+.SearchInput .right-addon .glyphicon { right: 0px;}
+.SearchInput .right-addon input { padding-right: 30px; }

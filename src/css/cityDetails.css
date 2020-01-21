@@ -1,0 +1,5 @@
+.CityDetails { overflow: hidden;}
+.CityDetails img { width: 240px; height: 180px; float: left;}
+.CityDetails .info { float: left; padding: 6px 12px; }
+.CityDetails .info h1 { font-size: 22px; margin: 0; }
+.CityDetails .info .degrees { font-size: 22px; }

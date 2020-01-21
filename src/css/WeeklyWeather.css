@@ -1,0 +1,3 @@
+.WeeklyWeather .col-md-5ths { padding: 0 40px;}
+.WeeklyWeather .day { border: 1px solid; padding: 0 0 60px 0;}
+.WeeklyWeather .day .degrees { font-size: 18px;}
