@@ -31,7 +31,7 @@ class SearchInput extends Component {
       return
     }
     
-    let url = `http://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey=${API_KEY}&metric=false&q=${searchText}`;
+    let url = `https://dataservice.accuweather.com/locations/v1/cities/autocomplete?apikey=${API_KEY}&metric=false&q=${searchText}`;
     let xhr = new XMLHttpRequest();
     xhr.open('GET', url, true);
     xhr.responseType = 'json';
