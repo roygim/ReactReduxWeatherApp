@@ -1,3 +1,8 @@
+1. after downloaing the project from github run - npm install (make sure you are in the project folder)
+2. make sure you have a valid key for Accuweather API, 
+   if the key is not valid you will get error 503 while try to get the cities list
+   to replace for a new key go to file: Config.js - 'API_KEY'
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
