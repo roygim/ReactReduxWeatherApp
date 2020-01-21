@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Roei-Grumet-07-01-2020/static/css/main.d91d6319.chunk.css",
-    "main.js": "/Roei-Grumet-07-01-2020/static/js/main.4b1799ce.chunk.js",
-    "main.js.map": "/Roei-Grumet-07-01-2020/static/js/main.4b1799ce.chunk.js.map",
+    "main.js": "/Roei-Grumet-07-01-2020/static/js/main.71d22d0f.chunk.js",
+    "main.js.map": "/Roei-Grumet-07-01-2020/static/js/main.71d22d0f.chunk.js.map",
     "runtime-main.js": "/Roei-Grumet-07-01-2020/static/js/runtime-main.5432718e.js",
     "runtime-main.js.map": "/Roei-Grumet-07-01-2020/static/js/runtime-main.5432718e.js.map",
     "static/js/2.52499866.chunk.js": "/Roei-Grumet-07-01-2020/static/js/2.52499866.chunk.js",
     "static/js/2.52499866.chunk.js.map": "/Roei-Grumet-07-01-2020/static/js/2.52499866.chunk.js.map",
     "index.html": "/Roei-Grumet-07-01-2020/index.html",
-    "precache-manifest.c3d8b5e5fd00b278a2fa2f9994a152ea.js": "/Roei-Grumet-07-01-2020/precache-manifest.c3d8b5e5fd00b278a2fa2f9994a152ea.js",
+    "precache-manifest.dd84f8aba2c50cef89508ae43c286969.js": "/Roei-Grumet-07-01-2020/precache-manifest.dd84f8aba2c50cef89508ae43c286969.js",
     "service-worker.js": "/Roei-Grumet-07-01-2020/service-worker.js",
     "static/css/main.d91d6319.chunk.css.map": "/Roei-Grumet-07-01-2020/static/css/main.d91d6319.chunk.css.map",
     "static/js/2.52499866.chunk.js.LICENSE": "/Roei-Grumet-07-01-2020/static/js/2.52499866.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5432718e.js",
     "static/js/2.52499866.chunk.js",
     "static/css/main.d91d6319.chunk.css",
-    "static/js/main.4b1799ce.chunk.js"
+    "static/js/main.71d22d0f.chunk.js"
   ]
 }

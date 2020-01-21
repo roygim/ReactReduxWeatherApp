@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2824e98c5841983b733f904e3b6062d",
+    "revision": "6ba59d459f66bef35c2b17b0e1e2de21",
     "url": "/Roei-Grumet-07-01-2020/index.html"
   },
   {
-    "revision": "2495b58e7d7c779484c2",
+    "revision": "6f3fac3203c438614ea5",
     "url": "/Roei-Grumet-07-01-2020/static/css/main.d91d6319.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Roei-Grumet-07-01-2020/static/js/2.52499866.chunk.js.LICENSE"
   },
   {
-    "revision": "2495b58e7d7c779484c2",
-    "url": "/Roei-Grumet-07-01-2020/static/js/main.4b1799ce.chunk.js"
+    "revision": "6f3fac3203c438614ea5",
+    "url": "/Roei-Grumet-07-01-2020/static/js/main.71d22d0f.chunk.js"
   },
   {
     "revision": "5f1b2817aea897fce888",
