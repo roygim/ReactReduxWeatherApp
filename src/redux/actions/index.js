@@ -7,7 +7,7 @@ export const selectCity = (cityName, cityId) => dispatch => {
 }
 
 function getCityWeather(cityName, cityId, dispatch){
-    let url = `http://dataservice.accuweather.com/forecasts/v1/daily/5day/${cityId}?metric=true&apikey=${API_KEY}`;
+    let url = `https://dataservice.accuweather.com/forecasts/v1/daily/5day/${cityId}?metric=true&apikey=${API_KEY}`;
     fetch(url)
         .then(res => res.json())
         .then(res => {
@@ -19,7 +19,7 @@ function getCityWeather(cityName, cityId, dispatch){
 }
 
 function getCityPhoto(cityWeatherRes, cityId, dispatch){
-    let url = `http://dataservice.accuweather.com/currentconditions/v1/${cityId}?getPhotos=true&apikey=${API_KEY}`;
+    let url = `https://dataservice.accuweather.com/currentconditions/v1/${cityId}?getPhotos=true&apikey=${API_KEY}`;
     fetch(url)
         .then(res => res.json())
         .then(res => {
