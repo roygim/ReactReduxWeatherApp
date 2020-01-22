@@ -15,6 +15,7 @@ class SearchInput extends Component {
     }
 
     this.handleClick = this.handleClick.bind(this);
+    this.handleKeyPress = this.handleKeyPress.bind(this);
     this.onChange = this.onChange.bind(this);
     this.onSelect = this.onSelect.bind(this);
     this.getItemValue = this.getItemValue.bind(this);
@@ -84,6 +85,13 @@ class SearchInput extends Component {
     this.props.selectCity(this.state.cityName, this.state.cityId);
   }
 
+  handleKeyPress(e){
+    debugger
+    if(e.key === 'Enter'){
+      this.props.selectCity(this.state.cityName, this.state.cityId);
+    }    
+  }
+
   render() {
       return (
         <div className="SearchInput text-center">
@@ -95,7 +103,7 @@ class SearchInput extends Component {
                   value={this.state.cityName}
                   onChange={this.onChange}
                   onSelect={this.onSelect}
-                  inputProps={{ className: "form-control", placeholder: "Search"}}
+                  inputProps={{ className: "form-control", placeholder: "Search", onKeyPress: this.handleKeyPress}}
               />
             <i className="glyphicon glyphicon-search" onClick={this.handleClick}></i>
           </div>
