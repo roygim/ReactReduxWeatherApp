@@ -6,7 +6,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
   return (
-      <Router basename={window.location.pathname || ''}>
+      <Router basename='/Roei-Grumet-07-01-2020'>
         <div className="App">
           <Header />
           <MainContent />
