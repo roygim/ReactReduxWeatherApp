@@ -86,7 +86,6 @@ class SearchInput extends Component {
   }
 
   handleKeyPress(e){
-    debugger
     if(e.key === 'Enter'){
       this.props.selectCity(this.state.cityName, this.state.cityId);
     }    

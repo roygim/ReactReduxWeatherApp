@@ -1,5 +1,6 @@
-.CityDetails { overflow: hidden;}
+.CityDetails { overflow: hidden; position: relative;}
 .CityDetails img { width: 240px; height: 180px; float: left;}
 .CityDetails .info { float: left; padding: 6px 12px; }
 .CityDetails .info h1 { font-size: 22px; margin: 0; }
 .CityDetails .info .degrees { font-size: 22px; }
+.CityDetails .fa-search-plus { color: #FFFFFF; position: absolute; left: 216px; top: 155px; cursor: pointer; font-size: 18px;}

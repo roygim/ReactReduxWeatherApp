@@ -1,5 +1,4 @@
 import { SELECTED_CITY } from "../actions/types";
-import selectedCityData from '../../moka/selectedCityData';
 
 const initialState = {
   selectedCity: null
@@ -18,6 +17,7 @@ export default function(state = initialState, action) {
 }
 
 function getCityData(res){
+  debugger
   let cityData = {};
 
   cityData.cityDetails = {}
@@ -27,6 +27,15 @@ function getCityData(res){
   cityData.cityDetails.dayWeather = res.DailyForecasts[0].Day.IconPhrase;
   cityData.cityDetails.img = res.Images[0].Photos[0].LandscapeLink.replace('L.jpg', 'S.jpg');
   
+  cityData.cityDetails.images = []
+
+  res.Images[0].Photos.forEach((element, index) => {
+    let img = {}
+    img.id = index;
+    img.src = element.LandscapeLink.replace('L.jpg', 'S.jpg');
+    cityData.cityDetails.images.push(img);
+  })
+    
   cityData.weeklyWeather = []
 
   res.DailyForecasts.forEach((element, index) => {
