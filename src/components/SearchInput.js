@@ -25,7 +25,8 @@ class SearchInput extends Component {
 
   retrieveDataAsynchronously(searchText) {    
     let _this = this;
-      if(searchText == ''){
+    
+    if(searchText == ''){
         _this.setState({
           autocompleteData: []
       });
