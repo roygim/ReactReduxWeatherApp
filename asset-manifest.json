@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Roei-Grumet-07-01-2020/static/css/main.41f48057.chunk.css",
-    "main.js": "/Roei-Grumet-07-01-2020/static/js/main.904f1b6e.chunk.js",
-    "main.js.map": "/Roei-Grumet-07-01-2020/static/js/main.904f1b6e.chunk.js.map",
+    "main.css": "/Roei-Grumet-07-01-2020/static/css/main.9e68486e.chunk.css",
+    "main.js": "/Roei-Grumet-07-01-2020/static/js/main.3d8750f1.chunk.js",
+    "main.js.map": "/Roei-Grumet-07-01-2020/static/js/main.3d8750f1.chunk.js.map",
     "runtime-main.js": "/Roei-Grumet-07-01-2020/static/js/runtime-main.5432718e.js",
     "runtime-main.js.map": "/Roei-Grumet-07-01-2020/static/js/runtime-main.5432718e.js.map",
-    "static/css/2.3c1ddb0a.chunk.css": "/Roei-Grumet-07-01-2020/static/css/2.3c1ddb0a.chunk.css",
+    "static/css/2.da31a9be.chunk.css": "/Roei-Grumet-07-01-2020/static/css/2.da31a9be.chunk.css",
     "static/js/2.fbef4e79.chunk.js": "/Roei-Grumet-07-01-2020/static/js/2.fbef4e79.chunk.js",
     "static/js/2.fbef4e79.chunk.js.map": "/Roei-Grumet-07-01-2020/static/js/2.fbef4e79.chunk.js.map",
     "index.html": "/Roei-Grumet-07-01-2020/index.html",
-    "precache-manifest.299133fb70eb7e85e2b7405d35a47f3b.js": "/Roei-Grumet-07-01-2020/precache-manifest.299133fb70eb7e85e2b7405d35a47f3b.js",
+    "precache-manifest.04c631a744e3b02ba60c8c3a2d3a78a5.js": "/Roei-Grumet-07-01-2020/precache-manifest.04c631a744e3b02ba60c8c3a2d3a78a5.js",
     "service-worker.js": "/Roei-Grumet-07-01-2020/service-worker.js",
-    "static/css/2.3c1ddb0a.chunk.css.map": "/Roei-Grumet-07-01-2020/static/css/2.3c1ddb0a.chunk.css.map",
-    "static/css/main.41f48057.chunk.css.map": "/Roei-Grumet-07-01-2020/static/css/main.41f48057.chunk.css.map",
+    "static/css/2.da31a9be.chunk.css.map": "/Roei-Grumet-07-01-2020/static/css/2.da31a9be.chunk.css.map",
+    "static/css/main.9e68486e.chunk.css.map": "/Roei-Grumet-07-01-2020/static/css/main.9e68486e.chunk.css.map",
     "static/js/2.fbef4e79.chunk.js.LICENSE": "/Roei-Grumet-07-01-2020/static/js/2.fbef4e79.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.5432718e.js",
-    "static/css/2.3c1ddb0a.chunk.css",
+    "static/css/2.da31a9be.chunk.css",
     "static/js/2.fbef4e79.chunk.js",
-    "static/css/main.41f48057.chunk.css",
-    "static/js/main.904f1b6e.chunk.js"
+    "static/css/main.9e68486e.chunk.css",
+    "static/js/main.3d8750f1.chunk.js"
   ]
 }

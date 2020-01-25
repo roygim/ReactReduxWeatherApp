@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af41801fe9b449d5757a2bee383caf0d",
+    "revision": "a222409ef7dad060cd30fba37b24636a",
     "url": "/Roei-Grumet-07-01-2020/index.html"
   },
   {
-    "revision": "9e0d404b66a618e3d9bf",
-    "url": "/Roei-Grumet-07-01-2020/static/css/2.3c1ddb0a.chunk.css"
+    "revision": "0a0d9d475dc2acf70842",
+    "url": "/Roei-Grumet-07-01-2020/static/css/2.da31a9be.chunk.css"
   },
   {
-    "revision": "9b5a5709a422cc6dbd90",
-    "url": "/Roei-Grumet-07-01-2020/static/css/main.41f48057.chunk.css"
+    "revision": "259a8e2a55d131b74a4c",
+    "url": "/Roei-Grumet-07-01-2020/static/css/main.9e68486e.chunk.css"
   },
   {
-    "revision": "9e0d404b66a618e3d9bf",
+    "revision": "0a0d9d475dc2acf70842",
     "url": "/Roei-Grumet-07-01-2020/static/js/2.fbef4e79.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Roei-Grumet-07-01-2020/static/js/2.fbef4e79.chunk.js.LICENSE"
   },
   {
-    "revision": "9b5a5709a422cc6dbd90",
-    "url": "/Roei-Grumet-07-01-2020/static/js/main.904f1b6e.chunk.js"
+    "revision": "259a8e2a55d131b74a4c",
+    "url": "/Roei-Grumet-07-01-2020/static/js/main.3d8750f1.chunk.js"
   },
   {
     "revision": "5f1b2817aea897fce888",
