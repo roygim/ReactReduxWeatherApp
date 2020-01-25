@@ -11,6 +11,7 @@ class SearchResults extends React.Component {
         super(props);
                 
         this.handleFavoriteBtn = this.handleFavoriteBtn.bind(this);
+        this.handleMyLocationWeather = this.handleMyLocationWeather.bind(this);
     }
 
     checkFavorite(){
@@ -30,10 +31,30 @@ class SearchResults extends React.Component {
         this.props.getFavoritesCity(city);    
     }
 
+    handleMyLocationWeather(){
+        if (!navigator.geolocation) {
+            alert('Geolocation is not supported by your browser');
+        } 
+        else {
+            navigator.geolocation.getCurrentPosition(this.geolocationSuccess, this.geolocationError);
+        }
+    }
+
+    geolocationSuccess(position) {
+        const latitude  = position.coords.latitude;
+        const longitude = position.coords.longitude;
+        alert(`lat: ${latitude} , long: ${longitude}`);
+    }
+    
+    geolocationError() {
+        alert('Unable to retrieve your location');
+    }
+
     getInitialHtml(){
         return(
             <div className="SearchResultsInitial">
                 <h2>Select City</h2>
+                <a href='#' onClick={this.handleMyLocationWeather}>Show me the weather for my location</a>
             </div>            
         )
     }

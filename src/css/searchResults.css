@@ -4,6 +4,8 @@
 .SearchResults h2 { font-size: 62px;}
 
 .SearchResultsInitial { text-align: center;}
+.SearchResultsInitial a { font-weight: bold;}
+
 
 .DaysWeather .col-md-5ths { padding: 0 40px;}
 .DaysWeather .day { border: 1px solid; padding: 0 0 60px 0;}
