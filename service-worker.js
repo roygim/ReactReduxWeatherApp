@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Roei-Grumet-07-01-2020/precache-manifest.04c631a744e3b02ba60c8c3a2d3a78a5.js"
+  "/Roei-Grumet-07-01-2020/precache-manifest.3f619a1df0a487aa520e751ac62e5499.js"
 );
 
 self.addEventListener('message', (event) => {
