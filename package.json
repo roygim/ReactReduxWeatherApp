@@ -29,6 +29,7 @@
     "dev": "webpack-dev-server --mode=development",
     "prod": "webpack --mode=production",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
