@@ -15,7 +15,7 @@ function Header() {
           </button>
           
           <Link to='/'>
-            <a href="javascript:void(0)" className="navbar-brand">Herolo Home Assignment</a>
+            <a href="javascript:void(0)" className="navbar-brand">Weather App</a>
           </Link>          
         </div>
         <div className="collapse navbar-collapse" id="navbar-collapse">
