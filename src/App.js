@@ -6,7 +6,7 @@ import { BrowserRouter as Router } from 'react-router-dom';
 
 function App() {
   return (
-      <Router basename='/Roei-Grumet-07-01-2020'>
+      <Router basename='/ReactReduxWeatherApp'>
         <div className="App">
           <Header />
           <MainContent />

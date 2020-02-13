@@ -9,7 +9,7 @@ function MainContent() {
     <div className="MainContent">
       <Switch>
         <Route path='/' exact component={HomeScreen} />
-        <Route path='/Roei-Grumet-07-01-2020' component={HomeScreen} />
+        <Route path='/ReactReduxWeatherApp' component={HomeScreen} />
         <Route path='/home' component={HomeScreen} />
         <Route path='/favorite' component={FavoriteScreen} />
       </Switch>       
