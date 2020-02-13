@@ -52,7 +52,9 @@ class SearchInput extends Component {
             console.error("Cannot load data from remote source");
         }
     };
-
+    xhr.onerror = () => {
+        alert('Accuweather API token is expired')
+    };
     xhr.send();
   }
 
