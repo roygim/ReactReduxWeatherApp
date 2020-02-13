@@ -7,7 +7,7 @@ module.exports = {
     output: {
         path: path.resolve( __dirname, 'dist' ),
         filename: 'bundle.js',
-        publicPath: '/Roei-Grumet-07-01-2020/',
+        publicPath: '/ReactReduxWeatherApp/',
     },
     devServer: {
         historyApiFallback: true
