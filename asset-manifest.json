@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Roei-Grumet-07-01-2020/static/css/main.ff9f8a53.chunk.css",
-    "main.js": "/Roei-Grumet-07-01-2020/static/js/main.379200ac.chunk.js",
-    "main.js.map": "/Roei-Grumet-07-01-2020/static/js/main.379200ac.chunk.js.map",
-    "runtime-main.js": "/Roei-Grumet-07-01-2020/static/js/runtime-main.5432718e.js",
-    "runtime-main.js.map": "/Roei-Grumet-07-01-2020/static/js/runtime-main.5432718e.js.map",
-    "static/css/2.da31a9be.chunk.css": "/Roei-Grumet-07-01-2020/static/css/2.da31a9be.chunk.css",
-    "static/js/2.c45e04d4.chunk.js": "/Roei-Grumet-07-01-2020/static/js/2.c45e04d4.chunk.js",
-    "static/js/2.c45e04d4.chunk.js.map": "/Roei-Grumet-07-01-2020/static/js/2.c45e04d4.chunk.js.map",
-    "index.html": "/Roei-Grumet-07-01-2020/index.html",
-    "precache-manifest.dc89d678997ff05c756e743500ed7606.js": "/Roei-Grumet-07-01-2020/precache-manifest.dc89d678997ff05c756e743500ed7606.js",
-    "service-worker.js": "/Roei-Grumet-07-01-2020/service-worker.js",
-    "static/css/2.da31a9be.chunk.css.map": "/Roei-Grumet-07-01-2020/static/css/2.da31a9be.chunk.css.map",
-    "static/css/main.ff9f8a53.chunk.css.map": "/Roei-Grumet-07-01-2020/static/css/main.ff9f8a53.chunk.css.map",
-    "static/js/2.c45e04d4.chunk.js.LICENSE": "/Roei-Grumet-07-01-2020/static/js/2.c45e04d4.chunk.js.LICENSE"
+    "main.css": "/ReactReduxWeatherApp/static/css/main.9cdd98d1.chunk.css",
+    "main.js": "/ReactReduxWeatherApp/static/js/main.9c05a435.chunk.js",
+    "main.js.map": "/ReactReduxWeatherApp/static/js/main.9c05a435.chunk.js.map",
+    "runtime-main.js": "/ReactReduxWeatherApp/static/js/runtime-main.9a6b13d7.js",
+    "runtime-main.js.map": "/ReactReduxWeatherApp/static/js/runtime-main.9a6b13d7.js.map",
+    "static/css/2.da31a9be.chunk.css": "/ReactReduxWeatherApp/static/css/2.da31a9be.chunk.css",
+    "static/js/2.c45e04d4.chunk.js": "/ReactReduxWeatherApp/static/js/2.c45e04d4.chunk.js",
+    "static/js/2.c45e04d4.chunk.js.map": "/ReactReduxWeatherApp/static/js/2.c45e04d4.chunk.js.map",
+    "index.html": "/ReactReduxWeatherApp/index.html",
+    "precache-manifest.f4ff2d0aac482de0b2bb45cde0df7a0e.js": "/ReactReduxWeatherApp/precache-manifest.f4ff2d0aac482de0b2bb45cde0df7a0e.js",
+    "service-worker.js": "/ReactReduxWeatherApp/service-worker.js",
+    "static/css/2.da31a9be.chunk.css.map": "/ReactReduxWeatherApp/static/css/2.da31a9be.chunk.css.map",
+    "static/css/main.9cdd98d1.chunk.css.map": "/ReactReduxWeatherApp/static/css/main.9cdd98d1.chunk.css.map",
+    "static/js/2.c45e04d4.chunk.js.LICENSE": "/ReactReduxWeatherApp/static/js/2.c45e04d4.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.5432718e.js",
+    "static/js/runtime-main.9a6b13d7.js",
     "static/css/2.da31a9be.chunk.css",
     "static/js/2.c45e04d4.chunk.js",
-    "static/css/main.ff9f8a53.chunk.css",
-    "static/js/main.379200ac.chunk.js"
+    "static/css/main.9cdd98d1.chunk.css",
+    "static/js/main.9c05a435.chunk.js"
   ]
 }
