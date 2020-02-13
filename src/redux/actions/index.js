@@ -15,7 +15,9 @@ function getCityWeather(cityName, cityId, dispatch){
                 res.cityId = cityId;
                 getCityPhoto(res, cityId, dispatch)
             }            
-        );  
+        ).catch(function(error) {
+            alert('Accuweather API token is expired')
+        });
 }
 
 function getCityPhoto(cityWeatherRes, cityId, dispatch){

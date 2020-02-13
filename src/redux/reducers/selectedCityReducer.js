@@ -17,7 +17,6 @@ export default function(state = initialState, action) {
 }
 
 function getCityData(res){
-  debugger
   let cityData = {};
 
   cityData.cityDetails = {}
